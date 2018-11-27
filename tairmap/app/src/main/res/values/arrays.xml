@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counties">
+        <item>基隆市</item>
+        <item>新北市</item>
+        <item>臺北市</item>
+        <item>桃園市</item>
+        <item>新竹縣</item>
+        <item>新竹市</item>
+        <item>苗栗縣</item>
+        <item>臺中市</item>
+        <item>彰化縣</item>
+        <item>南投縣</item>
+        <item>雲林縣</item>
+        <item>嘉義縣</item>
+        <item>嘉義市</item>
+        <item>臺南市</item>
+        <item>高雄市</item>
+        <item>屏東縣</item>
+        <item>臺東縣</item>
+        <item>花蓮縣</item>
+        <item>宜蘭縣</item>
+        <item>連江縣</item>
+        <item>金門縣</item>
+        <item>澎湖縣</item>
+    </string-array>
+
+    <string-array name="commute">
+        <item>走路</item>
+        <item>騎腳踏車</item>
+        <item>騎機車</item>
+        <item>開車</item>
+    </string-array>
+
+    <string-array name="gpsurl">
+        <item>c</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_01.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_04.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_08.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_13.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_02.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_05.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_06.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_14.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_07.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_09.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_10.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_11.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_12.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_16.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_15.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_19.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_18.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_17.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_20.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_21.xml</item>
+        <item>https://www.cwb.gov.tw/rss/forecast/36_22.xml</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>基隆市</item>
+        <item>臺北市</item>
+        <item>新北市</item>
+        <item>臺中市</item>
+        <item>臺南市</item>
+        <item>高雄市</item>
+        <item>桃園市</item>
+        <item>新竹縣</item>
+        <item>新竹市</item>
+        <item>苗栗縣</item>
+        <item>彰化縣</item>
+        <item>南投縣</item>
+        <item>雲林縣</item>
+        <item>嘉義縣</item>
+        <item>嘉義市</item>
+        <item>屏東縣</item>
+        <item>台東縣</item>
+        <item>花蓮縣</item>
+        <item>宜蘭縣</item>
+        <item>澎湖縣</item>
+        <item>金門縣</item>
+        <item>連江縣</item>
+    </string-array>
+
+</resources>
